@@ -81,7 +81,7 @@ Dự án được xây dựng trên kiến trúc RAG (Retrieval-Augmented Genera
 3.  **Thiết lập biến môi trường:**
     *   Sao chép file `.env.example` thành một file mới tên là `.env.local`.
         ```bash
-    cp .env.example .env.local
+        cp .env.example .env.local
         ```
     *   Mở file `.env.local` và thay thế `"YOUR_API_KEY_HERE"` bằng Google Gemini API key của bạn.
 
